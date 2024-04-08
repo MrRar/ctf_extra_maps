@@ -1,0 +1,3 @@
+# A list of maps that are disabled. 
+# A list of map names separeated by commas.
+ctf_extra_maps_disabled_maps (Disabled Maps) string maze,serpents_pass
